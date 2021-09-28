@@ -6,23 +6,34 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polodaniel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Tecnologias
+## Linguagens de Programação
 <div style="display: inline_block">
   <img align="center" alt="Daniel-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Daniel-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Daniel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Daniel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-Android" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 </div>
+  
+ ## Bancos de Dados
+ <div style="display: inline_block">
+  <img align="center" alt="Daniel-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+     <img align="center" alt="Daniel-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+ </div>
+  
+## Ferramentas 
+<div style="display: inline_block">
+
+ </div> 
 
   ## Redes Sociais
 <div style="display: inline_block">
   <a href = "mailto:polodaniel2016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-polo-5a0335106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-  ![Snake animation](https://github.com/Polodaniel/Polodaniel/blob/output/github-contribution-grid-snake.svg)
+  
+  ## Commit's
+![Snake animation](https://github.com/Polodaniel/Polodaniel/blob/output/github-contribution-grid-snake.svg)
   
   
   
