@@ -1,5 +1,3 @@
-
-
 ## Olá! Eu sou o Daniel Polo 
 
 <div align="center">
