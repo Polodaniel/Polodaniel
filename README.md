@@ -1,3 +1,5 @@
+
+
 ## Olá! Eu sou o Daniel Polo 
 
 <div align="center">
@@ -6,15 +8,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polodaniel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Tecnologias
+## Linguagens de Programação
 <div style="display: inline_block">
   <img align="center" alt="Daniel-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Daniel-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Daniel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
+## Tecnologias
+<div style="display: inline_block">
   <img align="center" alt="Daniel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-Android" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-</div>
+  <img align="center" alt="Daniel-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
+</div>  
   
  ## Bancos de Dados
  <div style="display: inline_block">
