@@ -22,13 +22,16 @@
     <img align="center" alt="Daniel-MaterialUI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
   <img align="center" alt="Daniel-Android" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Daniel-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
+<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="50" height="40"/>
 </div>  
   
  ## Bancos de Dados
  <div style="display: inline_block">
   <img align="center" alt="Daniel-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
      <img align="center" alt="Daniel-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
- </div>
+ <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="40"/>
+  </div>
+  
   
 ## Ferramentas 
 <div style="display: inline_block">
