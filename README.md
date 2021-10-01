@@ -17,6 +17,7 @@
 
 ## Tecnologias
 <div style="display: inline_block">
+    <img align="center" alt="Daniel-Blazor" height="40" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/43f7f59b38a37cd3a928d33f232e4b6f59f77f8c/icons/blazor.svg">
   <img align="center" alt="Daniel-DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Daniel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,6 +26,7 @@
   <img align="center" alt="Daniel-Android" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Daniel-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
 <img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="50" height="40"/>
+  <img align="center" src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-ar21.svg" alt="leaflet" width="70" height="50"/>
 </div>  
   
 ## Bancos de Dados
@@ -37,8 +39,8 @@
   
 ## Ferramentas 
 <div style="display: inline_block">
-     <img align="center" alt="Daniel-VS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
- </div>
+  <img align="center" alt="Daniel-VS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Daniel-VSCode" height="40" width="50" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg">
  </div> 
 
 ## Redes Sociais
