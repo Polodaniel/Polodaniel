@@ -1,13 +1,5 @@
 ## Olá! Eu sou o Daniel Polo 
 
-<div align="center">
-  <a href="https://github.com/Polodaniel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Polodaniel&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polodaniel&layout=compact&langs_count=10&theme=nord"/>
-  <img height="100em" src="https://github-profile-trophy.vercel.app/?username=polodaniel&theme=nord&no-frame=true" alt="polodaniel" />
-  <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=polodaniel&theme=gotham" alt="polodaniel" />-->  
-</div>
-
 ## Linguagens de Programação
 <div style="display: inline_block">
   <img align="center" alt="Daniel-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -51,6 +43,15 @@
   <a href="https://www.linkedin.com/in/daniel-polo-5a0335106/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+</div>
+  
+## Status
+<div align="center">
+  <a href="https://github.com/Polodaniel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Polodaniel&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polodaniel&layout=compact&langs_count=10&theme=nord"/>
+  <img height="100em" src="https://github-profile-trophy.vercel.app/?username=polodaniel&theme=nord&no-frame=true" alt="polodaniel" />
+  <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=polodaniel&theme=gotham" alt="polodaniel" />-->  
 </div>
   
 ## Commit's
