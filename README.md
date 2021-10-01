@@ -1,4 +1,6 @@
-## Olá! Eu sou o Daniel Polo 
+## Olá 👋
+
+Prazer em conhecê-lo! Meu nome é Daniel Polo desenvolvedor full stack, sou graudado em Ciência da Computação pelo Centro Universitario Barão de Mauá. Atualmente, meu foco é aprender cada vez mais sobre UX/UI e afins.  
 
 ## Linguagens de Programação
 <div style="display: inline_block">
