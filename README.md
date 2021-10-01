@@ -28,8 +28,8 @@ Prazer em conhecê-lo! Meu nome é Daniel Polo desenvolvedor full stack, sou gra
   
 ## 🧰 Tecnologias
 <div style="display: inline_block">
-    <img align="center" alt="Daniel-Blazor" height="40" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/43f7f59b38a37cd3a928d33f232e4b6f59f77f8c/icons/blazor.svg">
   <img align="center" alt="Daniel-DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Daniel-Blazor" height="40" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/43f7f59b38a37cd3a928d33f232e4b6f59f77f8c/icons/blazor.svg">
   <img align="center" alt="Daniel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-Bostrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
