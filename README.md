@@ -1,5 +1,5 @@
 <h3 align="center">
-  Bem Vindo ao perfil meu Perfil 👋
+  Bem Vindo ao meu Perfil 👋
 </h3>
 
 <p align="center">
