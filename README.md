@@ -38,6 +38,7 @@ Prazer em conhecê-lo! Meu nome é Daniel Polo desenvolvedor full stack, sou gra
   <img align="center" alt="Daniel-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
 <img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="50" height="40"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-ar21.svg" alt="leaflet" width="70" height="50"/>
+  <img align="center" alt="Daniel-Arduino" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/4373/4373043.png">
 </div>  
   
 ## 🗄️ Bancos de Dados
