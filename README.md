@@ -72,4 +72,4 @@ Prazer em conhecê-lo! Meu nome é Daniel Polo desenvolvedor full stack, sou gra
 </div>
   
  <!--## Commit's-->  
- <!--![Snake animation](https://github.com/Polodaniel/Polodaniel/blob/output/github-contribution-grid-snake.svg)-->  
+![Snake animation](https://github.com/Polodaniel/Polodaniel/blob/output/github-contribution-grid-snake.svg)
