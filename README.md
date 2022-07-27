@@ -70,6 +70,17 @@ Prazer em conhecê-lo! Meu nome é Daniel Polo desenvolvedor full stack, sou gra
   <img height="100em" src="https://github-profile-trophy.vercel.app/?username=polodaniel&theme=nord&no-frame=true" alt="polodaniel" />
   <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=polodaniel&theme=gotham" alt="polodaniel" />-->  
 </div>
+
+## ⭐ Selos
+<div align="left">
+<a Title="Create a cross-platform app with .NET MAUI" href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.build-mobile-and-desktop-apps.badge?username=DanielPolo-2463">
+  <img height="100em" src="https://docs.microsoft.com/en-us/learn/achievements/build-mobile-and-desktop-apps.svg" alt="polodaniel" style="width: 60px; height: 60px;"/>
+</a>
+
+<a Title="Store local data with SQLite in a .NET MAUI app" href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.store-local-data.badge?username=DanielPolo-2463">
+  <img height="100em" src="https://docs.microsoft.com/en-us/learn/achievements/store-local-data.svg" alt="polodaniel" style="width: 60px; height: 60px;"/>
+</a>
+</div>
   
  <!--## Commit's-->  
-![Snake animation](https://github.com/Polodaniel/Polodaniel/blob/output/github-contribution-grid-snake.svg)
+ <!--![Snake animation](https://github.com/Polodaniel/Polodaniel/blob/output/github-contribution-grid-snake.svg) -->
