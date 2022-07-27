@@ -71,14 +71,14 @@ Prazer em conhecê-lo! Meu nome é Daniel Polo desenvolvedor full stack, sou gra
   <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=polodaniel&theme=gotham" alt="polodaniel" />-->  
 </div>
 
-## ⭐ Selos
+## ⭐ Selos Microsoft
 <div align="left">
 <a target="_blank" Title="Create a cross-platform app with .NET MAUI" href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.build-mobile-and-desktop-apps.badge?username=DanielPolo-2463">
-  <img height="100em" src="https://docs.microsoft.com/en-us/learn/achievements/build-mobile-and-desktop-apps.svg" alt="polodaniel" style="width: 60px; height: 60px;"/>
+  <img target="_blank" src="https://docs.microsoft.com/en-us/learn/achievements/build-mobile-and-desktop-apps.svg" alt="polodaniel" style="width: 60px; height: 60px;"/>
 </a>
 
 <a target="_blank" Title="Store local data with SQLite in a .NET MAUI app" href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.store-local-data.badge?username=DanielPolo-2463">
-  <img height="100em" src="https://docs.microsoft.com/en-us/learn/achievements/store-local-data.svg" alt="polodaniel" style="width: 60px; height: 60px;"/>
+  <img target="_blank" src="https://docs.microsoft.com/en-us/learn/achievements/store-local-data.svg" alt="polodaniel" style="width: 60px; height: 60px;"/>
 </a>
 </div>
   
