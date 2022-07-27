@@ -73,11 +73,11 @@ Prazer em conhecê-lo! Meu nome é Daniel Polo desenvolvedor full stack, sou gra
 
 ## ⭐ Selos
 <div align="left">
-<a Title="Create a cross-platform app with .NET MAUI" href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.build-mobile-and-desktop-apps.badge?username=DanielPolo-2463">
+<a target="_blank" Title="Create a cross-platform app with .NET MAUI" href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.build-mobile-and-desktop-apps.badge?username=DanielPolo-2463">
   <img height="100em" src="https://docs.microsoft.com/en-us/learn/achievements/build-mobile-and-desktop-apps.svg" alt="polodaniel" style="width: 60px; height: 60px;"/>
 </a>
 
-<a Title="Store local data with SQLite in a .NET MAUI app" href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.store-local-data.badge?username=DanielPolo-2463">
+<a target="_blank" Title="Store local data with SQLite in a .NET MAUI app" href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.store-local-data.badge?username=DanielPolo-2463">
   <img height="100em" src="https://docs.microsoft.com/en-us/learn/achievements/store-local-data.svg" alt="polodaniel" style="width: 60px; height: 60px;"/>
 </a>
 </div>
