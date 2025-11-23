@@ -1,86 +1,120 @@
-<h3 align="center">
-  Bem Vindo ao meu Perfil 👋
-</h3>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&width=431&lines=Desenvolvedor+full-stack+web+e+app+++;Apaixonado+por+front-end%2C+UX%2FUI+e+afins++++;Graudado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o&font=Ubuntu&width=400&height=45&color=36BCF7FF&v&size=22"></a>
-</p>
-
-## Olá 
-
-Prazer em conhecê-lo! Meu nome é Daniel Polo desenvolvedor full stack, sou graudado em Ciência da Computação pelo Centro Universitario Barão de Mauá. Atualmente, meu foco é aprender cada vez mais sobre UX/UI e afins.  
-
-## 🔥 Minhas Estatísticas
 <div align="center">
-  <a href="https://github.com/Polodaniel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Polodaniel&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polodaniel&layout=compact&langs_count=10&theme=nord"/>
-  <!--<img height="100em" src="https://github-profile-trophy.vercel.app/?username=polodaniel&theme=nord&no-frame=true" alt="polodaniel" />-->  
-  <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=polodaniel&theme=gotham" alt="polodaniel" />-->  
-</div>
-  
-## 👨‍💻 Linguagens de programação
-<div style="display: inline_block">
-  <img align="center" alt="Daniel-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Daniel-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Daniel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-## 🧰 Tecnologias
-<div style="display: inline_block">
-  <img align="center" alt="Daniel-DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Daniel-Blazor" height="40" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/43f7f59b38a37cd3a928d33f232e4b6f59f77f8c/icons/blazor.svg">
-  <img align="center" alt="Daniel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Daniel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Daniel-Bostrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Daniel-MaterialUI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
-  <img align="center" alt="Daniel-Android" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Daniel-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
-<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="50" height="40"/>
-  <img align="center" src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-ar21.svg" alt="leaflet" width="70" height="50"/>
-  <img align="center" alt="Daniel-Arduino" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/4373/4373043.png">
-</div>  
-  
-## 🗄️ Bancos de Dados
- <div style="display: inline_block">      
-  <img align="center" alt="Daniel-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-     <img align="center" alt="Daniel-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
- <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="40"/>
-  </div>
-  
-## 💻 Ferramentas 
-<div style="display: inline_block">
-  <img align="center" alt="Daniel-VS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Daniel-VSCode" height="40" width="50" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg">
- </div> 
 
-## 📧 Redes Sociais
-<div style="display: inline_block">
-  <a href = "mailto:danielpolodev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-polo-5a0335106/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+# 👋 Olá, eu sou Daniel Polo
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Especialista+em+.NET+%7C+Blazor;Apaixonado+por+UX%2FUI;Graduado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+
 </div>
-  
-## ⭐ Github Stats
+
+---
+
+### 🚀 Sobre Mim
+
+```csharp
+public class DanielPolo
+{
+    public string Nome => "Daniel Polo";
+    public string Profissão => "Desenvolvedor Full Stack";
+    public string Formação => "Ciência da Computação - Centro Universitário Barão de Mauá";
+    public string FocoAtual => "UX/UI Design e Desenvolvimento Front-end";
+    
+    public List<string> Interesses => new()
+    {
+        "Arquitetura de Software",
+        "Design de Interfaces",
+        "Desenvolvimento Mobile",
+        "IoT e Automação"
+    };
+}
+```
+
+---
+
+### 💻 Stack Tecnológica
+
 <div align="center">
-  <a href="https://github.com/Polodaniel">
-  <img height="100em" src="https://github-profile-trophy.vercel.app/?username=polodaniel&theme=nord&no-frame=true" alt="polodaniel" />
-  <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=polodaniel&theme=gotham" alt="polodaniel" />-->  
+
+#### Linguagens
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Frameworks & Tecnologias
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![MudBlazor](https://img.shields.io/badge/MudBlazor-594AE2?style=for-the-badge&logo=blazor&logoColor=white)
+
+#### Bancos de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Ferramentas
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-## ⭐ Selos Microsoft
-<div align="left">
-<a target="_blank" Title="Create a cross-platform app with .NET MAUI" href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.build-mobile-and-desktop-apps.badge?username=DanielPolo-2463">
-  <img target="_blank" src="https://docs.microsoft.com/en-us/learn/achievements/build-mobile-and-desktop-apps.svg" alt="polodaniel" style="width: 60px; height: 60px;"/>
-</a>
+---
 
-<a target="_blank" Title="Store local data with SQLite in a .NET MAUI app" href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.store-local-data.badge?username=DanielPolo-2463">
-  <img target="_blank" src="https://docs.microsoft.com/en-us/learn/achievements/store-local-data.svg" alt="polodaniel" style="width: 60px; height: 60px;"/>
-</a>
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Polodaniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polodaniel&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Polodaniel&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=polodaniel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Troféus"/>
+</div>
+
+---
+
+### 🎓 Certificações Microsoft
+
+<div align="center">
+
+| Certificação | Badge |
+|--------------|-------|
+| Create a cross-platform app with .NET MAUI | <a href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.build-mobile-and-desktop-apps.badge?username=DanielPolo-2463"><img src="https://docs.microsoft.com/en-us/learn/achievements/build-mobile-and-desktop-apps.svg" width="80"/></a> |
+| Store local data with SQLite in a .NET MAUI app | <a href="https://docs.microsoft.com/pt-br/learn/achievements/learn.dotnet-maui.store-local-data.badge?username=DanielPolo-2463"><img src="https://docs.microsoft.com/en-us/learn/achievements/store-local-data.svg" width="80"/></a> |
+
+</div>
+
+---
+
+### 📫 Vamos Conectar?
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpolodev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-polo-5a0335106/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Polodaniel)
+
+</div>
+
+---
+
+<div align="center">
   
- <!--## Commit's-->  
- <!--![Snake animation](https://github.com/Polodaniel/Polodaniel/blob/output/github-contribution-grid-snake.svg) -->
+### 💡 *"Transformando ideias em código, código em soluções."*
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPolodaniel&label=Visitantes&countColor=%2336BCF7&style=flat&labelStyle=upper)
+
+</div>
